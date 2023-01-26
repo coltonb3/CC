@@ -35,4 +35,19 @@
   to {
     transform: rotate(360deg);
   }
+
+
+/* Use these custom variables... */
+
+
+
+/* ...or add this class to an element
+polka {
+  background-image: 
+    radial-gradient(rgb(255, 255, 255) 11.6%, transparent 11.6%),
+    radial-gradient(rgb(255, 255, 255) 11.6%, transparent 11.6%);
+  background-position: 0px 0px, 20px 20px;
+  background-size: 40px 40px;
+  background-color: rgb(2, 0, 102);
+} */
 }
