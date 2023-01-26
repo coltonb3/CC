@@ -6,9 +6,11 @@ import NavBar from './components/navbar';
 function App() {
   return (
     <div className="App">
-      <h1> Champagne Wishes & Charcuterie Dreams </h1>
-    <NavBar />    
     <Header/>
+    <NavBar /> 
+      <h1> Champagne Wishes & Charcuterie Dreams </h1>
+
+    
 
     </div>
   );
