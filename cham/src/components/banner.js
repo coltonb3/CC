@@ -35,7 +35,7 @@ const images = [
   },
 ];
 
-function Banner() {
+function SwipeableTextMobileStepper() {
   const theme = useTheme();
   const [activeStep, setActiveStep] = React.useState(0);
   const maxSteps = images.length;
@@ -125,4 +125,4 @@ function Banner() {
   );
 }
 
-export default Banner;
+export default SwipeableTextMobileStepper;
